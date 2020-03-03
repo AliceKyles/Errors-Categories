@@ -1,0 +1,6 @@
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\obj\Debug\dfgh.csprojResolveAssemblyReference.cache
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\bin\Debug\dfgh.exe.config
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\bin\Debug\dfgh.exe
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\bin\Debug\dfgh.pdb
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\obj\Debug\dfgh.exe
+C:\Users\Алиса\Documents\SharpDevelop Projects\dfgh\obj\Debug\dfgh.pdb
